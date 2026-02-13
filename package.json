@@ -1,0 +1,17 @@
+{
+  "name": "portifolio-2026",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "index.html",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^5.7.4"
+  }
+}
